@@ -9,3 +9,6 @@
 4. Static siteyi yayımlama
    - Static site nedir?
    - Deploy kaynakları
+
+react genel slide [http://slides.com/volkansengul/reactjs-giris/fullscreen]
+tavsiye chrome eklenti [https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi]
