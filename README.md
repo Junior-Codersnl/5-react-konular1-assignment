@@ -21,7 +21,7 @@ react turkce dokumani [https://tr.reactjs.org/docs/getting-started.html]
 
 # 5-react-assignment
 
-https://raw.githubusercontent.com/HackYourFuture/React/master/week1/assets/exercises/exercise2.png
+
 
 
 **Ödev 1: Hobiler**
@@ -38,15 +38,15 @@ const hobiler = ['Surfing', 'Rock climbing', 'Mountain biking', 'Breakdancing'];
 
 **Ödev 2: Müşteri Hizmetleri!**
 
-![ödev 2](assets/exercises/exercise2.png)
+![ödev 2](https://raw.githubusercontent.com/HackYourFuture/React/master/week1/assets/exercises/exercise2.png)
 
 Bu ödevde, her seferinde farklı bilgileri görüntülemek için yeniden kullanacağınız tek bir component-bileşen oluşturmanız gerekir.
 
-1. Create a functional component called `<Guarantee>`
-2. Instantiate it 3 times
-3. Give each component 3 `props`: an `img`, `title` and `description`
-4. Pass down to each component the appropriate content. Take the images from the **assets** folder, inside the **exercise1** folder
-5. Test out if it works by importing it into the top level component, which is `<App>`
+1. `<Guarantee>` adında fonksiyon component oluşturun.
+2. Bunu 3 sefer miras alın.
+3. Her bir componente 3 `props` verin: `img`, `title` ve `description` adında.
+4. Her bileşene uygun içeriği aktarın. Fotoları `assets` klasörünün içinden alın
+5. Çalışıp çalışmadığını en üst düzey componente-bileşene aktararak-import ederek test edin, bu durumda bu `<App>` dır.
 
 **Exercise 3: It's higher than 10!**
 
