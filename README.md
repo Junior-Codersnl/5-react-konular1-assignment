@@ -16,13 +16,11 @@ tavsiye chrome eklenti [https://chrome.google.com/webstore/detail/react-develope
 react turkce dokumani [https://tr.reactjs.org/docs/getting-started.html]
 
 # 5-react-egsersiz
-
+Bu lınkteki egsersizleri yaparsak React kod yapısına alışmış oluruz.
 [https://www.codecademy.com/learn/react-101]
 
+
 # 5-react-assignment
-
-
-
 
 **Ödev 1: Hobiler**
 
@@ -38,7 +36,7 @@ const hobiler = ['Surfing', 'Rock climbing', 'Mountain biking', 'Breakdancing'];
 
 **Ödev 2: Müşteri Hizmetleri!**
 
-![ödev 2](https://raw.githubusercontent.com/HackYourFuture/React/master/week1/assets/exercises/exercise2.png)
+![ödev 2](https://github.com/Junior-Codersnl/5-react-konular1-assignment/blob/main/assets/exercise2.png)
 
 Bu ödevde, her seferinde farklı bilgileri görüntülemek için yeniden kullanacağınız tek bir component-bileşen oluşturmanız gerekir.
 
@@ -48,27 +46,26 @@ Bu ödevde, her seferinde farklı bilgileri görüntülemek için yeniden kullan
 4. Her bileşene uygun içeriği aktarın. Fotoları `assets` klasörünün içinden alın
 5. Çalışıp çalışmadığını en üst düzey componente-bileşene aktararak-import ederek test edin, bu durumda bu `<App>` dır.
 
-**Exercise 3: It's higher than 10!**
 
-Let's create a simple number counter, starting from 0 until infinity!
+**Ödev 3: 10'dan daha büyük!**
 
-1. Create 3 functional components called `<Counter>`, `<Count>` and `<Button>`
-2. Inside `<Counter>` define a state variable called `count` (initialized with value `0`) and state handler called `setCount`
-3. Inside `<Button>` create a `<button>` with the text `Add 1!` and `onClick` attribute
-4. Pass down the `count` state variable to `<Count>`, and the `setCount` to `<Button>`
-5. Inside `<Counter>`, declare a variable called `feedback` above the return statement. Give this variable a ternary operator value: if `count` is higher than 10 it should display the string `"It's higher than 10!"`, else it displays `"Keep counting..."`
-6.  5. Test out if it works by importing `<Counter>` into the top level component, which is `<App>`
+0'dan sonsuza kadar basit bir sayı sayacı oluşturalım!
 
-## **3. Code along**
+1. `<Counter>`, `<Count>` and `<Button>` adlarında 3 fonksiyon component oluşturun.
+2. `<Counter>` içinde bir state değişkeni tanımlayın ve onu `count` diye adlandırın (başlangıç değeri `0` olsun) ve bu değişkenin işleyici fonksiyonu `setCount` olsun.
+3. `<Button>` içinde bir `<button>` oluştur ve `Add 1!` yaz sonrada ona `onClick` olay-event özelliği-attribute ekle.
+4. `count` state değerini `<Count>` a aktar ve `setCount` u da `<Button>` a.
+5. `<Counter>` içinde, return ifadesinin üzerinde `feedback` adlı bir değişken belirtin. Bu değişkene üçlü bir operatör(ternary operator) değeri verin: `count` 10'dan büyükse `10'dan daha büyük!` ifadesini görüntülemelidir, aksi takdirde `Saymaya devam et ...` yazdirin
+6. `<Counter>` ın çalışıp çalışmadığını en üst düzey componente-bileşene aktararak-import ederek test edin, bu durumda bu `<App>` dır.
 
-> Create a new GitHub repository for this project. It's a portfolio piece!
 
-Learning how to work with React is a fundamentally different approach to building a user interface. Therefore, we need to practice a lot!
+# 5-react-kendi başına kod yazma alıştırması
+React ile nasıl çalışılacağını öğrenmek, bir kullanıcı arayüzü oluşturmak için temelde farklı bir yaklaşımdır. Bu nedenle çok pratik yapmalıyız!
 
-In the following tutorial you'll learn how to a `Budget Calculator`!
+Aşağıdaki eğitimde bir 'Bütçe Hesaplayıcısı' nın  React da nasıl yazılacağını öğreneceksiniz!
 
-It might seem complicated at first, but don't worry. Aim for understanding the principle behind it to the best you can. If you ever feel in doubt: do a Google search or ask a question in Slack!
+İlk başta karmaşık görünebilir ama endişelenmeyin. Bunun arkasındaki prensibi en iyi şekilde anlamayı hedefleyin. Herhangi bir şüphe duyarsanız: Google araması yapın veya whatsapp gruptan sorabilirsiniz!
 
-Enjoy!
+Kolay gelsin arkadaşlar!
 
--   [Build a Budget Calculator](https://www.youtube.com/watch?v=f6HYLHrYpGs)
+-   [Bütçe Hesaplayıcısı](https://www.youtube.com/watch?v=f6HYLHrYpGs)
