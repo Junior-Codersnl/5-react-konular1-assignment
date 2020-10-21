@@ -1,4 +1,4 @@
-# 5-react-konular1-çalışılacak materyal
+# 5-react-konular1- materyal
 
 1. React.js nedir? [https://www.hostinger.web.tr/rehberler/react-nedir/]
    - Component, State & Props  [https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/]
