@@ -23,15 +23,15 @@
 3. Props
    - data akişı [https://medium.com/kodcular/react-componentleri-aras%C4%B1-prop-ge%C3%A7i%C5%9Fi-a1462ddeac52]
 4. Static siteyi yayımlama
-   - Static site nedir? [http://www.hanebilgisayar.com/web-sitesi/statik-web-sitesi-nedir/]
-   - Deploy kaynakları [heroku, netlify, vercel, firebase,AWS, Azure]
+   - Static site nedir? [okuma link](http://www.hanebilgisayar.com/web-sitesi/statik-web-sitesi-nedir/)
+   - Deploy kaynakları [heroku, netlify, vercel, firebase,AWS, Azure] -(Derste örnek gösterilecek firebase console uye olunup gelelim)
 
                    
 
 
 # 5-react-egsersiz
-Bu lınkteki egsersizleri yaparsak React kod yapısına alışmış oluruz.
-[https://www.codecademy.com/learn/react-101]
+[Bu lınkteki](https://www.codecademy.com/learn/react-101) egsersizleri yaparsak React kod yapısına alışmış oluruz.
+
 
 
 # 5-react-assignment
