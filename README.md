@@ -1,6 +1,10 @@
 # 5-react-konular1- materyal
 
-1. React.js nedir? [https://www.hostinger.web.tr/rehberler/react-nedir/]
+React eğitimine başlamadan önce kurulması gerekenler [link](https://www.youtube.com/watch?v=pOE47x-aubg&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be&index=2&ab_channel=EnginDemiro%C4%9F)
+
+Tavsiye edilen eklentiler [Vs ekletileri](https://www.youtube.com/watch?v=EwXw1dp6AyM&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be&index=3&ab_channel=EnginDemiro%C4%9F) , [Chrome eklentileri 1](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [Chrome eklentileri 2](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , , [Chrome eklentileri 3](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn)
+
+1. React.js nedir?   [okuma link](https://www.hostinger.web.tr/rehberler/react-nedir/) ,  [video link](https://www.youtube.com/watch?v=EoH-TliTV1Y&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&ab_channel=ReactDersleri)
    - Component, State & Props  [https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/]
    - Lifecycle [https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/]
 2. JS de HTML: JSX
