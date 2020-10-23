@@ -16,10 +16,10 @@
 
 1. React.js nedir?   [okuma link](https://www.hostinger.web.tr/rehberler/react-nedir/) ,  [video link](https://www.youtube.com/watch?v=EAbzuHG9glw&ab_channel=AliOsmanHaz%C4%B1r)
    - Component, State & Props  [okuma link](https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/), [video 1](https://www.youtube.com/watch?v=jgOhoPrNzMM&t=14s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi) , [video 2](https://www.youtube.com/watch?v=oQJZxyd71V4&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=3&ab_channel=ReactDersleri)
-   - Lifecycle [okuma linki](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) [vide 1](https://www.youtube.com/watch?v=X_Yhd98twnw&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=4&ab_channel=ReactDersleri),[video 2](https://www.youtube.com/watch?v=VqSJvy8ZX5M&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=2&ab_channel=ReactDersleri)
+   - Lifecycle [okuma linki](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/), [video 1](https://www.youtube.com/watch?v=X_Yhd98twnw&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=4&ab_channel=ReactDersleri),[video 2](https://www.youtube.com/watch?v=VqSJvy8ZX5M&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=2&ab_channel=ReactDersleri)
    
 2. JS de HTML: JSX
-   - JSX    [okuma linki](https://tr.reactjs.org/docs/introducing-jsx.html) , [video linki](https://www.youtube.com/watch?v=EoH-TliTV1Y&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&ab_channel=ReactDersleri)
+   - JSX    [okuma linki](https://tr.reactjs.org/docs/introducing-jsx.html),  [video linki](https://www.youtube.com/watch?v=EoH-TliTV1Y&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&ab_channel=ReactDersleri)
 3. Props
    - data akişı [https://medium.com/kodcular/react-componentleri-aras%C4%B1-prop-ge%C3%A7i%C5%9Fi-a1462ddeac52]
 4. Static siteyi yayımlama
