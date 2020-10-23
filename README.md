@@ -1,23 +1,26 @@
 # 5-react-konular1- materyal
 
-React eğitimine başlamadan önce kurulması gerekenler [link](https://www.youtube.com/watch?v=pOE47x-aubg&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be&index=2&ab_channel=EnginDemiro%C4%9F)
+* React eğitimine başlamadan önce kurulması gerekenler [link](https://www.youtube.com/watch?v=pOE47x-aubg&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be&index=2&ab_channel=EnginDemiro%C4%9F)
 
-Tavsiye edilen eklentiler [Vs ekletileri](https://www.youtube.com/watch?v=EwXw1dp6AyM&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be&index=3&ab_channel=EnginDemiro%C4%9F) , [Chrome eklentileri 1](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [Chrome eklentileri 2](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , , [Chrome eklentileri 3](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn)
+* Tavsiye edilen eklentiler [Vs ekletileri](https://www.youtube.com/watch?v=EwXw1dp6AyM&list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be&index=3&ab_channel=EnginDemiro%C4%9F) , [Chrome eklentileri 1](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) , [Chrome eklentileri 2](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) , , [Chrome eklentileri 3](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn)
 
-1. React.js nedir?   [okuma link](https://www.hostinger.web.tr/rehberler/react-nedir/) ,  [video link](https://www.youtube.com/watch?v=EoH-TliTV1Y&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&ab_channel=ReactDersleri)
-   - Component, State & Props  [https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/]
+* React genel bilgi [slide linki](http://slides.com/volkansengul/reactjs-giris/fullscreen)
+
+* React resmi sitesi [turkce dokumani](https://tr.reactjs.org/docs/getting-started.html)
+
+1. React.js nedir?   [okuma link](https://www.hostinger.web.tr/rehberler/react-nedir/) ,  [video link](https://www.youtube.com/watch?v=EAbzuHG9glw&ab_channel=AliOsmanHaz%C4%B1r)
+   - Component, State & Props  [okuma link](https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/), [video 1](https://www.youtube.com/watch?v=jgOhoPrNzMM&t=14s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi) , [video 2] ()
    - Lifecycle [https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/]
 2. JS de HTML: JSX
-   - JSX [https://tr.reactjs.org/docs/introducing-jsx.html]
+   - JSX    [okuma linki](https://tr.reactjs.org/docs/introducing-jsx.html) , [video linki](https://www.youtube.com/watch?v=EoH-TliTV1Y&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&ab_channel=ReactDersleri)
 3. Props
    - data akişı [https://medium.com/kodcular/react-componentleri-aras%C4%B1-prop-ge%C3%A7i%C5%9Fi-a1462ddeac52]
 4. Static siteyi yayımlama
    - Static site nedir? [http://www.hanebilgisayar.com/web-sitesi/statik-web-sitesi-nedir/]
    - Deploy kaynakları [heroku, netlify, vercel, firebase,AWS, Azure]
 
-react genel slide [http://slides.com/volkansengul/reactjs-giris/fullscreen]                     
-tavsiye chrome eklenti [https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi]
-react turkce dokumani [https://tr.reactjs.org/docs/getting-started.html]
+                   
+
 
 # 5-react-egsersiz
 Bu lınkteki egsersizleri yaparsak React kod yapısına alışmış oluruz.
