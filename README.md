@@ -11,6 +11,7 @@
 
 * React resmi sitesi [turkce dokumani](https://tr.reactjs.org/docs/getting-started.html)
 
+* Reactjs ile yapılmış populer web uygulamaları [link](https://medium.com/@coderacademy/32-sites-built-with-reactjs-172e3a4bed81)
 
 
 
