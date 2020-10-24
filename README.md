@@ -1,4 +1,4 @@
-# 5-react-konular1- materyal
+# 5 REACT JS
 
 ![react gif](https://miro.medium.com/max/574/1*qVPbRqzVzWF9gSjZ8P0C8w.gif)
 
@@ -15,6 +15,8 @@
 
 
 
+## Konular 1. Hafta
+
 1. React.js nedir?   [okuma link](https://www.hostinger.web.tr/rehberler/react-nedir/) ,  [video link](https://www.youtube.com/watch?v=EAbzuHG9glw&ab_channel=AliOsmanHaz%C4%B1r)
    - Component, State & Props  [okuma link](https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/), [video 1](https://www.youtube.com/watch?v=jgOhoPrNzMM&t=14s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi) , [video 2](https://www.youtube.com/watch?v=oQJZxyd71V4&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=3&ab_channel=ReactDersleri)
    - Lifecycle [okuma linki](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/), [video 1](https://www.youtube.com/watch?v=X_Yhd98twnw&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=4&ab_channel=ReactDersleri),[video 2](https://www.youtube.com/watch?v=VqSJvy8ZX5M&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=2&ab_channel=ReactDersleri)
@@ -30,12 +32,13 @@
                    
 
 
-# 5-react-egsersiz
+## React kod egsersizi
+
 [Bu lınkteki](https://www.codecademy.com/learn/react-101) egsersizleri yaparsak React kod yapısına alışmış oluruz.
 
 
 
-# 5-react-assignment
+## React Assignment
 
 **Ödev 1: Hobiler**
 
@@ -74,7 +77,8 @@ Bu ödevde, her seferinde farklı bilgileri görüntülemek için yeniden kullan
 6. `<Counter>` ın çalışıp çalışmadığını en üst düzey componente-bileşene aktararak-import ederek test edin, bu durumda bu `<App>` dır.
 
 
-# 5-react-kendi başına kod yazma alıştırması
+## React kendi başına kod yazma alıştırması
+
 React ile nasıl çalışılacağını öğrenmek, bir kullanıcı arayüzü oluşturmak için temelde farklı bir yaklaşımdır. Bu nedenle çok pratik yapmalıyız!
 
 Aşağıdaki eğitimde bir 'Bütçe Hesaplayıcısı' nın  React da nasıl yazılacağını öğreneceksiniz!
