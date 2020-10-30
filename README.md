@@ -13,6 +13,8 @@
 
 * Reactjs ile yapılmış populer web uygulamaları [link](https://medium.com/@coderacademy/32-sites-built-with-reactjs-172e3a4bed81)
 
+* React İçin Gerekli Javascript Özellikleri [Video Serisi](https://www.youtube.com/watch?v=qXoMVJAyKUE&list=PL8IHDq7oEkgGuhjVN2_lr1F8bmEgdetXy&ab_channel=ReactDersleri)
+
 
 
 ## Konular 1. Hafta
