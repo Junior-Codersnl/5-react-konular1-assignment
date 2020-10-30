@@ -17,7 +17,7 @@
 
 
 
-## Konular 1. Hafta
+## Konular 1. Hafta (DERSE GELMEDEN TAKIP EDILMESI GEREKIR)
 
 1. React.js nedir?   [okuma link](https://www.hostinger.web.tr/rehberler/react-nedir/) ,  [video link](https://www.youtube.com/watch?v=EAbzuHG9glw&ab_channel=AliOsmanHaz%C4%B1r)
    - Component, State & Props  [okuma link](https://www.mobilhanem.com/reactjs-component-yapisi-ve-component-kullanimi/), [video 1](https://www.youtube.com/watch?v=jgOhoPrNzMM&t=14s&ab_channel=Yaz%C4%B1l%C4%B1mBilimi) , [video 2](https://www.youtube.com/watch?v=oQJZxyd71V4&list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg&index=3&ab_channel=ReactDersleri)
@@ -34,7 +34,7 @@
                    
 
 
-## React kod egsersizi
+## React kod egsersizi (DERSTEN SONRA YAPILACAKTIR)
 
 [Bu lınkteki](https://www.codecademy.com/learn/react-101) egsersizleri yaparsak React kod yapısına alışmış oluruz.
 
